@@ -65,5 +65,6 @@
     <Build Include="dbo\Tables\Customer.sql" />
     <Build Include="dbo\Tables\PersonCreditCard.sql" />
     <Build Include="dbo\Tables\SalesOrderDetail.sql" />
+    <Build Include="Customer2.sql" />
   </ItemGroup>
 </Project>
